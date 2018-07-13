@@ -1,4 +1,10 @@
 class Owner
-  # code goes here
+  def initialize
+    @pets = {:fish => [], :dog => [], :cat => []}
+    @mood = mood
+  end 
+  
+  
+  
 
  end
